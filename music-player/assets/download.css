@@ -1,0 +1,9 @@
+﻿body {
+    background-image: url(bg1.jpeg);
+    color: white;
+    position: static;
+}
+h1, h4 {
+    margin-top: 3rem;
+    margin-left: 5rem
+}

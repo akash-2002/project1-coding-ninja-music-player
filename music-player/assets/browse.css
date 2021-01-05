@@ -1,0 +1,25 @@
+﻿body {
+    background-image: url(bg1.jpeg);
+    color: white
+}
+h1, h4 {
+    margin-top: 3rem;
+    margin-left: 5rem
+}
+#contanier {
+    display: flex;
+    flex-wrap: wrap;
+}
+.bt{
+    background-image:url(bg.jpeg);
+    
+    height:10rem;
+    width:18rem;
+    color:deepskyblue;
+    font-size:2rem;
+    font-weight:bolder;
+    margin:3rem
+}
+.bt:hover{
+    background-image:url(bg.jpg)
+}

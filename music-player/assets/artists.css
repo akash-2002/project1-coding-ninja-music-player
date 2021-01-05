@@ -1,0 +1,81 @@
+body {
+	background-image: url(bg1.jpeg);
+	color: white;
+	
+}
+
+h1, h4 {
+	margin-top: 3rem;
+	margin-left: 5rem
+}
+button {
+	height: 15rem;
+	width: 15rem;
+	border: 1px solid black;
+	border-radius: 50%;
+	color: deepskyblue;
+	font-family: Candara;
+	font-size: 2rem;
+	font-weight: bolder;
+	margin: 4rem;
+	background-size: cover;
+	transition-duration:.5s;
+	
+	
+	
+}
+	button:hover {
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		
+		transform:scale(1.1)
+	}
+#a {
+	background-image: url(singer1.jpeg);
+	background-position: center;
+	
+}
+#b {
+	background-image: url(singer2.jpeg);
+	background-position: center;
+	
+}
+
+#c {
+	background-image: url(singer3.jpeg);
+	background-position: center;
+	
+}
+
+#d {
+	background-image: url(singer4.jpeg);
+	background-position: center;
+	
+}
+#e {
+	background-image: url(singer5.jpeg);
+	background-position: center;
+	
+}
+#f {
+	background-image: url(singer6.jpeg);
+	background-position: center;
+}
+#g {
+	background-image: url(singer7.jpeg);
+	background-position: center;
+}
+#h {
+	background-image: url(singer8.jpeg);
+	background-position: center;
+}
+#i {
+	background-image: url(singer9.jpeg);
+	background-position: center;
+}
+#j {
+	background-image: url(singer10.jpeg);
+	background-position: center;
+}
+
+
+

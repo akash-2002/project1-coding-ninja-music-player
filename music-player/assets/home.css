@@ -1,0 +1,30 @@
+body {
+	background-image:url(bg1.jpeg);
+	color:white;
+	position:static;
+}
+h1,h4{
+	margin-top:3rem;
+	margin-left:5rem
+}
+.card-text{
+	color:black!important
+}
+.card-img-top {
+	height: 10rem;
+	
+}
+.symbol:hover{
+	transform:scale(1.5);
+	cursor:pointer;
+	transition-duration:0.2s;
+	transition-timing-function:ease-in-out
+}
+.symbol{
+	background-color:white;
+	border:1px solid white;
+	border-radius:50%;
+}
+.card{
+	margin-top:2rem;
+}
